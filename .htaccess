@@ -1,0 +1,5 @@
+ErrorDocument 400 http://seels.ml/
+ErrorDocument 401 http://seels.ml/
+ErrorDocument 403 http://seels.ml/
+ErrorDocument 404 http://seels.ml/
+ErrorDocument 503 http://seels.ml/
